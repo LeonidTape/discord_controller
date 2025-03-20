@@ -2,7 +2,7 @@
   "tag_name": "v1.2.0",
   "assets": [
     {
-      "name": "main.py",
+      "name": "main.exe",
       "browser_download_url": "https://brigada-blacklist.onrender.com/download/main.exe"
     }
   ]
