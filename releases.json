@@ -1,9 +1,0 @@
-{
-  "tag_name": "1.0.0",
-  "assets": [
-    {
-      "name": "main.exe",
-      "browser_download_url": "https://raw.githubusercontent.com/LeonidTape/discord_controller/refs/heads/main/main.py"
-    }
-  ]
-}
