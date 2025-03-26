@@ -1,9 +1,9 @@
 {
-  "tag_name": "v1.2.3",
+  "tag_name": "v1.0.0",
   "assets": [
     {
-      "name": "Discord_Bot_Controller.exe",
-      "browser_download_url": "https://brigada-blacklist.onrender.com/download/Discord_Bot_Controller.exe"
+      "name": "dbc.zip",
+      "browser_download_url": "https://brigada-blacklist.onrender.com/download/dbc.zip"
     }
   ]
 }
